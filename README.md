@@ -1,3 +1,3 @@
 # Aula-Git
 
-melissa é linda.
+melissa é linda e perfeita.
